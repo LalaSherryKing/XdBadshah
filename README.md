@@ -16,4 +16,4 @@ git clone https://github.com/LalaSherryKing/XdBadshah/
 
 cd XdBadshah
 
-python JustNow.py
+python run.py
