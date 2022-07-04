@@ -1,7 +1,6 @@
 # XdBadshah
 
 
-rm -rf pro
 
 pkg update 
 
@@ -14,8 +13,6 @@ pkg install git
 pip install requests
 
 git clone https://github.com/LalaSherryKing/XdBadshah/
-
-
 
 cd XdBadshah
 
